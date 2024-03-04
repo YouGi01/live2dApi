@@ -30,8 +30,18 @@
             "HyperdimensionNeptunia/histoire",
             "HyperdimensionNeptunia/histoirenohover"
         ],
+        [
+            "kami/s_chihaya01",
+            "kami/s_yukari01",
+            "kami/v106a",
+            "kami/v106a1",
+            "kami/v107a",
+            "kami/v102a",
+            "kami/v108a",
+            "kami/v108a1"
+        ],
         "KantaiCollection/murakumo",
-        "china"
+        "ryoheyLab"
     ],
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
@@ -40,7 +50,8 @@
         "来自 Bilibili Live 的 33 的说",
         "Shizuku Talk ！这里是 Shizuku ~",
         "Nep! Nep! 超次元游戏：海王星 系列",
+        "来自神楽的问候",
         "艦隊これくしょん / 叢雲(むらくも)",
-        "china!~"
+        "ryoheyLab!~"
     ]
 }

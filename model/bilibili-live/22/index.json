@@ -5,9 +5,9 @@
     "model":"model.moc",
     "textures":[
         "texture_00/closet-default-v2.png",
-        "texture_01/default-upper.png",
-        "texture_02/default-lower.png",
-        "texture_03/default-hat.png"
+        "texture_01/summer2017-high-upper.png",
+        "texture_02/summer2017-low-lower.png",
+        "texture_03/tomo-high-hat.png"
     ],
     "layout":{
         "center_x": 0,
