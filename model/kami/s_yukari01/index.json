@@ -37,7 +37,7 @@
     "idle": [
       {
         "file": "motions/yukari_m_01_idle.mtn",
-        "fade_in": 0,
+        "fade_in": 10,
         "fade_out": 0
       }
     ],

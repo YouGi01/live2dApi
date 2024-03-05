@@ -32,16 +32,26 @@
         ],
         [
             "kami/s_chihaya01",
-            "kami/s_yukari01",
-            "kami/v106a",
-            "kami/v106a1",
-            "kami/v107a",
-            "kami/w102a",
-            "kami/w108a",
-            "kami/w108a1"
+            "kami/s_yukari01"
         ],
         "KantaiCollection/murakumo",
-        "ryoheyLab"
+        "casual",
+        [
+            "tianming/01",
+            "tianming/02",
+            "tianming/03",
+            "tianming/04",
+            "tianming/05",
+            "tianming/06",
+            "tianming/07",
+            "tianming/08",
+            "tianming/09",
+            "tianming/10",
+            "tianming/11",
+            "tianming/12",
+            "tianming/13",
+            "tianming/14"
+        ]
     ],
     "messages": [
         "来自 Potion Maker 的 Pio 酱 ~",
@@ -52,6 +62,7 @@
         "Nep! Nep! 超次元游戏：海王星 系列",
         "来自神楽的问候",
         "艦隊これくしょん / 叢雲(むらくも)",
-        "ryoheyLab!~"
+        "casual!",
+        "哈哈哈！"
     ]
 }
